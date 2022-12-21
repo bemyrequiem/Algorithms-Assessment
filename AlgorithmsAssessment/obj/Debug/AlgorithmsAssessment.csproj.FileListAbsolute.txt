@@ -1,0 +1,15 @@
+C:\Users\Alfie\Desktop\AlgorithmsAssessment\AlgorithmsAssessment\obj\Debug\AlgorithmsAssessment.csproj.AssemblyReference.cache
+C:\Users\Alfie\Desktop\AlgorithmsAssessment\AlgorithmsAssessment\obj\Debug\AlgorithmsAssessment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alfie\Desktop\AlgorithmsAssessment\AlgorithmsAssessment\obj\Debug\AlgorithmsAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Alfie\Desktop\AlgorithmsAssessment\AlgorithmsAssessment\bin\Debug\AlgorithmsAssessment.exe.config
+C:\Users\Alfie\Desktop\AlgorithmsAssessment\AlgorithmsAssessment\bin\Debug\AlgorithmsAssessment.exe
+C:\Users\Alfie\Desktop\AlgorithmsAssessment\AlgorithmsAssessment\bin\Debug\AlgorithmsAssessment.pdb
+C:\Users\Alfie\Desktop\AlgorithmsAssessment\AlgorithmsAssessment\obj\Debug\AlgorithmsAssessment.exe
+C:\Users\Alfie\Desktop\AlgorithmsAssessment\AlgorithmsAssessment\obj\Debug\AlgorithmsAssessment.pdb
+C:\Users\user\OneDrive\Uni Assignments\AlgorithmsAssessment\AlgorithmsAssessment\bin\Debug\AlgorithmsAssessment.exe.config
+C:\Users\user\OneDrive\Uni Assignments\AlgorithmsAssessment\AlgorithmsAssessment\bin\Debug\AlgorithmsAssessment.exe
+C:\Users\user\OneDrive\Uni Assignments\AlgorithmsAssessment\AlgorithmsAssessment\bin\Debug\AlgorithmsAssessment.pdb
+C:\Users\user\OneDrive\Uni Assignments\AlgorithmsAssessment\AlgorithmsAssessment\obj\Debug\AlgorithmsAssessment.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Uni Assignments\AlgorithmsAssessment\AlgorithmsAssessment\obj\Debug\AlgorithmsAssessment.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Uni Assignments\AlgorithmsAssessment\AlgorithmsAssessment\obj\Debug\AlgorithmsAssessment.exe
+C:\Users\user\OneDrive\Uni Assignments\AlgorithmsAssessment\AlgorithmsAssessment\obj\Debug\AlgorithmsAssessment.pdb
